@@ -1,0 +1,41 @@
+.App {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  display: flex;
+  width: 60vw;
+  justify-content: space-between;
+}
+
+.students-list {
+  width: 25vw;
+}
+
+.student-form {
+  width: 25vw;
+}
+
+.student {
+  margin: 20px;
+}
+
+.form-group {
+  margin: 20px;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+
+form {
+  width: 100%;
+}
+
+input {
+  padding: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: auto;
+}
